@@ -12,6 +12,11 @@ Mobile challenge
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
   </a>
+  <br>
+  <br>
+  <a href="https://github.com:andersonrafaelferreira/react-native-maps-example">
+    <img src="./assets/demo.gif" alt="Demo GIF">
+  </a>
 </p>
 
 <hr>
